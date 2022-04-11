@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fLSQAUWJY2AiVEQuZJ0ZiQ3SXyS+yVxO/faw5gtZrps=",
+  "Hash": "A/mBRcGySaQx25kmZvfAYXNdDTBBv5nLHqDCtJHgaX0=",
   "Source": "CookingApp",
   "BasePath": "_content/CookingApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CookingApp/wwwroot",
       "Source": "CookingApp",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/obj/Debug/net6.0/scopedcss/bundle/CookingApp.styles.css",
+      "Identity": "/Users/adam/CookingApp/obj/Debug/net6.0/scopedcss/bundle/CookingApp.styles.css",
       "SourceId": "CookingApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/obj/Debug/net6.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/adam/CookingApp/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "CookingApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/adam/CookingApp/CookingApp/obj/Debug/net6.0/scopedcss/bundle/CookingApp.styles.css"
+      "OriginalItemSpec": "/Users/adam/CookingApp/obj/Debug/net6.0/scopedcss/bundle/CookingApp.styles.css"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/obj/Debug/net6.0/scopedcss/projectbundle/CookingApp.bundle.scp.css",
+      "Identity": "/Users/adam/CookingApp/obj/Debug/net6.0/scopedcss/projectbundle/CookingApp.bundle.scp.css",
       "SourceId": "CookingApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/adam/CookingApp/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "CookingApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/adam/CookingApp/CookingApp/obj/Debug/net6.0/scopedcss/projectbundle/CookingApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/adam/CookingApp/obj/Debug/net6.0/scopedcss/projectbundle/CookingApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/open-iconic/README.md",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/css/site.css",
+      "Identity": "/Users/adam/CookingApp/wwwroot/css/site.css",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/adam/CookingApp/CookingApp/wwwroot/favicon.ico",
+      "Identity": "/Users/adam/CookingApp/wwwroot/favicon.ico",
       "SourceId": "CookingApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/adam/CookingApp/CookingApp/wwwroot/",
+      "ContentRoot": "/Users/adam/CookingApp/wwwroot/",
       "BasePath": "_content/CookingApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

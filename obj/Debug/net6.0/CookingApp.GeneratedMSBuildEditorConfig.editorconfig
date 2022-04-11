@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CookingApp
 build_property.RootNamespace = CookingApp
-build_property.ProjectDir = /Users/adam/CookingApp/CookingApp/
+build_property.ProjectDir = /Users/adam/CookingApp/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/adam/CookingApp/CookingApp
+build_property.MSBuildProjectDirectory = /Users/adam/CookingApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/adam/CookingApp/CookingApp/App.razor]
+[/Users/adam/CookingApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Pages/Counter.razor]
+[/Users/adam/CookingApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Pages/FetchData.razor]
+[/Users/adam/CookingApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Pages/Index.razor]
+[/Users/adam/CookingApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Shared/SurveyPrompt.razor]
+[/Users/adam/CookingApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/_Imports.razor]
+[/Users/adam/CookingApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Shared/MainLayout.razor]
+[/Users/adam/CookingApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-68spupamzs
 
-[/Users/adam/CookingApp/CookingApp/Shared/NavMenu.razor]
+[/Users/adam/CookingApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jl46mf8hz0
 
-[/Users/adam/CookingApp/CookingApp/Pages/Error.cshtml]
+[/Users/adam/CookingApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Pages/_Host.cshtml]
+[/Users/adam/CookingApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/adam/CookingApp/CookingApp/Pages/_Layout.cshtml]
+[/Users/adam/CookingApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adam/CookingApp/CookingApp/CookingApp.csproj": {}
+    "/Users/adam/CookingApp/CookingApp.csproj": {}
   },
   "projects": {
-    "/Users/adam/CookingApp/CookingApp/CookingApp.csproj": {
+    "/Users/adam/CookingApp/CookingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adam/CookingApp/CookingApp/CookingApp.csproj",
+        "projectUniqueName": "/Users/adam/CookingApp/CookingApp.csproj",
         "projectName": "CookingApp",
-        "projectPath": "/Users/adam/CookingApp/CookingApp/CookingApp.csproj",
+        "projectPath": "/Users/adam/CookingApp/CookingApp.csproj",
         "packagesPath": "/Users/adam/.nuget/packages/",
-        "outputPath": "/Users/adam/CookingApp/CookingApp/obj/",
+        "outputPath": "/Users/adam/CookingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adam/.nuget/NuGet/NuGet.Config"
